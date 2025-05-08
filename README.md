@@ -3,7 +3,7 @@
 **Explore, Preserve, Empower – Virtually Anywhere**  
 
 <div align="center">
-  <img src="assets/Heritage.jpg" alt="HeritageSphere Banner" width="800"/>
+  <img src="assets/Heritage.png" alt="HeritageSphere Banner" width="800"/>
 </div>  
 
 HeritageSphere is a groundbreaking platform leveraging **Metaverse, Augmented Reality (AR), and Blockchain Technology** to redefine cultural heritage exploration. It bridges accessibility gaps, combats environmental degradation, and revitalizes global engagement with heritage sites through immersive and sustainable digital experiences.  
